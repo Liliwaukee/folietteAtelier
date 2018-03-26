@@ -4,11 +4,6 @@ function loadPage() {
   $(".button-collapse").sideNav(); //inicializamos el burger menu de materialize
   $('.collapsible').collapsible();
 
-   //inicializamos la galleria
-
-
-
-
 }
 
 

@@ -131,8 +131,8 @@ $color-beige: #EFD8CC
   text-align: left
   padding: 1em
 
-ul.bullet
-  list-style-type: circle
+ul.bullet li:before
+  content: "• "
 
 .products-img
   display: block
@@ -218,6 +218,9 @@ ul.bullet
   font-size: 0.7em
   padding: 0.5em 1em
 
+#contact .section-name
+  color: $color-wine!important
+
 /* ---- ESTILOS DE FOOTER --- */
 #footer-logo
   display: inline
@@ -239,8 +242,9 @@ ul.bullet
   font-variant: small-caps
 
 .footer-icon
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+  border-radius: 0.7em
   height: 5vh
-  padding-left: 1vw
 
 .footer-modo
   border-radius: 0.7em
