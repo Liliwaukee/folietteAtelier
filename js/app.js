@@ -1,13 +1,6 @@
 function loadPage() {
-
-  $('.slider').slider(); //incializamos el slider de materialize
-  $(".button-collapse").sideNav(); //inicializamos el burger menu de materialize
-  $('.collapsible').collapsible();
-
+  $('.slider').slider();$(".button-collapse").sideNav();$('.collapsible').collapsible();
 }
-
-
-
 $(document).ready(loadPage);
 
 jQuery("#gallery").unitegallery({
