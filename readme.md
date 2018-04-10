@@ -7,6 +7,7 @@
 2. [Planeación](#planeacion)
 3. [Tecnologías](#tecnologias)
 4. [Sitio en construcción](#landing)
+5. [Página web](#resultado)
 
 ## <a name="descripcion"></a> Descripción de producto:
 - Foliette Atelier es un sitio responsivo que se compone de 6 secciones:
@@ -44,4 +45,9 @@ Se desarrolló una vista de Sitio en Construcción con las redes sociales del cl
 ![Foliette Landing](/assets/images/iMac.png)
 
 
-##Desarrollado para Laboratoria
+## <a name="resultado"></a> Página web:
+
+La resultado del proyecto se puede visuualizar aquí: http://folietteatelier.com/
+
+
+## Desarrollado para Foliette Atelier
