@@ -2,6 +2,8 @@
 ### V1.0.0
 <img src=assets/images/foliette-name.png>
 
+<img width="1280" alt="captura de pantalla 2018-04-10 a la s 17 24 45" src="https://user-images.githubusercontent.com/32861306/38586630-21320ef2-3ce4-11e8-9d63-a1b3065cfee9.png">
+
 ## Tabla de Contenido
 1. [Descripción de producto](#descripcion)
 2. [Planeación](#planeacion)
