@@ -1,5 +1,5 @@
 # FOLIETTE ATELIER
-------
+
 ### V1.0.0
 <img src=assets/images/foliette-name.png>
 
