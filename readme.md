@@ -1,4 +1,4 @@
-#Foliette Atelier
+# Foliette Atelier
 
 V1.0.0
 <img src=assets/images/foliette-name.png>
@@ -6,11 +6,11 @@ V1.0.0
 ![responsive](https://user-images.githubusercontent.com/32861306/38595027-0201c0d8-3d0f-11e8-80b6-d73f05ee6b94.jpg)
 
 ### Tabla de Contenido
-1. [Descripción de producto](#descripcion)
-2. [Planeación](#planeacion)
-3. [Tecnologías](#tecnologias)
-4. [Sitio en construcción](#landing)
-5. [Página web](#resultado)
+1. [Descripción de producto](##descripcion)
+2. [Planeación](##planeacion)
+3. [Tecnologías](##tecnologias)
+4. [Sitio en construcción](##landing)
+5. [Página web](##resultado)
 
 ### <a name="descripcion"></a> Descripción de producto:
 - Foliette Atelier es un sitio responsivo que se compone de 6 secciones:
