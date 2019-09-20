@@ -50,7 +50,7 @@ Se desarrolló una vista de Sitio en Construcción con las redes sociales del cl
 
 ## <a name="resultado"></a> Página web:
 
-La resultado del proyecto se puede visuualizar aquí: http://folietteatelier.com/
+La resultado del proyecto se puede visuualizar aquí: https://liliwaukee.github.io/folietteAtelier/ (Sitio original http://folietteatelier.com/)
 
 
 ## Desarrollado para Foliette Atelier
